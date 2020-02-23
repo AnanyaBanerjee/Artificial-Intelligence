@@ -46,7 +46,7 @@ You will be able to see all the required information including board configurati
 
 
 # Sample Run Output:
-
+<pre>
   
   0   1   3   Input State
 
@@ -100,7 +100,7 @@ You will be able to see all the required information including board configurati
 -----------------
 Total Number of moves 4
 Total Enqueued 24
-
+</pre>
 Thank you!
 
 
