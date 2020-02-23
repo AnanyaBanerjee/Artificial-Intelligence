@@ -54,7 +54,7 @@ You will be able to see all the required information including board configurati
 
 # Sample Run Output for A* Search using Heuristic 1:
 
-  
+  <pre>
   0   1   3   Input State
 
 
@@ -107,11 +107,12 @@ You will be able to see all the required information including board configurati
 -----------------
 Total Number of moves 4
 Total Enqueued 11
+</pre>
 
 # Sample Run Output for A* Search using Heuristic 2:
 
   
-  
+  <pre>
   0   1   3   Input State
 
 
@@ -164,7 +165,7 @@ Total Enqueued 11
 -----------------
 Total Number of moves 4
 Total Enqueued 13
-
+</pre>
 Thank you!
 
 
