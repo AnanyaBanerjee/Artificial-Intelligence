@@ -37,12 +37,14 @@ Press enter once you are done writing all 9 entries of your input configuration.
 
 **For example:**
 ananyabanerjee@Ananyas-MacBook-Pro Desktop % python3 astar_.py astar1
+
 Enter the input state config 0 1 3 4 2 5 7 8 6
 
 Do the same when asked for goal state
 
 **For example:**
 ananyabanerjee@Ananyas-MacBook-Pro Desktop % python3 astar_.py astar1
+
 Enter the input state config 0 1 3 4 2 5 7 8 6
 Enter the goal state1 2 3 4 5 6 7 8 0
 
